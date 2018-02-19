@@ -12,12 +12,12 @@
 </template>
 
 <script>
-  export default {
-    name: 'NoFound',
-    methods: {
-      goHome: function () {
-        this.$router.push('/')
-      }
+export default {
+  name: 'NoFound',
+  methods: {
+    goHome: function () {
+      this.$router.push('/')
     }
   }
+}
 </script>
