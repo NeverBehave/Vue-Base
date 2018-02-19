@@ -1,6 +1,6 @@
-# yake-cli
+# Vue-Base
 
-> A Vue.js project
+> A Vue.js project implement axios, mdui for SPA development
 
 ## Build Setup
 
